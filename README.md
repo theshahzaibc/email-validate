@@ -38,10 +38,15 @@ invalidEmail
 >>> evalid.verify_email('shahzaibsaifullah@gmail.com')
 validEmail
 >>> evalid.verify_email('foobar.com')
-invalidFormat```
+invalidFormat
 see for more examples [examples.py](https://github.com/theshahzaibc/email-validate/blob/master/examples.py)
-
+```
 ## Contribute
+```
 - Issue Tracker: https://github.com/theshahzaibc/email-validate/issues
-- Source Code: https://github.com/theshahzaibc/email-validate## Support
+- Source Code: https://github.com/theshahzaibc/email-validate
+```
+## Support
+```
 If you are having issues, please create an issue for it. And feel free to contribute as well 😄.
+```
