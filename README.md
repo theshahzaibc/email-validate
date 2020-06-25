@@ -22,7 +22,7 @@ $ pip install email-validate
 ```
 ### From source code
 ```
-$ git clone https://github.com/theshahzaibc/email_validate
+$ git clone https://github.com/theshahzaibc/email-validate
 $ cd email_validate
 $ virtualenv env
 $ source env/bin/activate
