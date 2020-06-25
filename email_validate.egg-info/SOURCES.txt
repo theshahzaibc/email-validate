@@ -1,0 +1,10 @@
+README.md
+setup.cfg
+setup.py
+email_validate/__init__.py
+email_validate/email_validator.py
+email_validate.egg-info/PKG-INFO
+email_validate.egg-info/SOURCES.txt
+email_validate.egg-info/dependency_links.txt
+email_validate.egg-info/requires.txt
+email_validate.egg-info/top_level.txt
