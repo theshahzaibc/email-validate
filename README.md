@@ -38,9 +38,9 @@ invalidEmail
 validEmail
 >>> evalid.verify_email('foobar.com')
 invalidFormat```
-see for more examples [examples.py](https://github.com/theshahzaibc/email_validate/blob/master/examples.py)
+see for more examples [examples.py](https://github.com/theshahzaibc/email-validate/blob/master/examples.py)
 
 ## Contribute
-- Issue Tracker: https://github.com/theshahzaibc/email_validate/issues
-- Source Code: https://github.com/theshahzaibc/email_validate## Support
+- Issue Tracker: https://github.com/theshahzaibc/email-validate/issues
+- Source Code: https://github.com/theshahzaibc/email-validate## Support
 If you are having issues, please create an issue for it. And feel free to contribute as well 😄.
