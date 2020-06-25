@@ -31,7 +31,8 @@ $ python setup.py develop
 
 ## Usage
 ```
->>> from email_validate import email_validator>>> evalid = email_validator()
+>>> from email_validate import email_validator
+>>> evalid = email_validator()
 >>> evalid.verify_email('foo@bar.com')
 invalidEmail
 >>> evalid.verify_email('shahzaibsaifullah@gmail.com')
